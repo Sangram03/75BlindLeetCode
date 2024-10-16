@@ -266,3 +266,6 @@ To ensure smooth collaboration, please:
 - [Code of Conduct](link to your Code of Conduct)
 
 ---
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
+</p>

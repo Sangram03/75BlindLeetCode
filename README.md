@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=Brown&width=650&height=100&lines=Hi%2C+WELCOME+%E2%9D%A4%EF%B8%8F;this+is+Sangram+Das.">
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=Brown&width=650&height=100&lines=WELCOME+%E2%9D%A4%EF%B8%8F+HERE%2C;this+is+75Blind+leetCode+Problem.">
 # 75Blind leetCode Problem
 
 A brief description of what this project does and who it's for

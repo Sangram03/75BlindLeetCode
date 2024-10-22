@@ -5,10 +5,10 @@ A brief description of what this project does and who it's for
 Here is a list of the "Blind 75" LeetCode problems categorized by topic:_
 
 ### **Array**
-1. Two Sum
-2. Best Time to Buy and Sell Stock
-3. Contains Duplicate
-4. Product of Array Except Self
+1. 📕Two Sum
+2. 📕Best Time to Buy and Sell Stock
+3. 📕Contains Duplicate
+4. 📕Product of Array Except Self
 5. Maximum Subarray
 6. Maximum Product Subarray
 7. Find Minimum in Rotated Sorted Array

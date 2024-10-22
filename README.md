@@ -9,96 +9,96 @@ Here is a list of the "Blind 75" LeetCode problems categorized by topic:_
 2. 📕Best Time to Buy and Sell Stock
 3. 📕Contains Duplicate
 4. 📕Product of Array Except Self
-5. Maximum Subarray
-6. Maximum Product Subarray
-7. Find Minimum in Rotated Sorted Array
-8. Search in Rotated Sorted Array
-9. 3Sum
-10. Container With Most Water
+5. 📕Maximum Subarray
+6. 📕Maximum Product Subarray
+7. 📕Find Minimum in Rotated Sorted Array
+8. 📕Search in Rotated Sorted Array
+9. 📕3Sum
+10.📕Container With Most Water
 
 ### **Binary**
-11. Sum of Two Integers
-12. Number of 1 Bits
-13. Counting Bits
-14. Missing Number
-15. Reverse Bits
+11. 📗Sum of Two Integers
+12. 📗Number of 1 Bits
+13. 📗Counting Bits
+14. 📗Missing Number
+15. 📗Reverse Bits
 
 ### **Dynamic Programming**
-16. Climbing Stairs
-17. Coin Change
-18. Longest Increasing Subsequence
-19. Longest Common Subsequence
-20. Word Break Problem
-21. Combination Sum
-22. House Robber
-23. House Robber II
-24. Decode Ways
-25. Unique Paths
-26. Jump Game
+16. 📘Climbing Stairs
+17. 📘Coin Change
+18. 📘Longest Increasing Subsequence
+19. 📘Longest Common Subsequence
+20. 📘Word Break Problem
+21. 📘Combination Sum
+22. 📘House Robber
+23. 📘House Robber II
+24. 📘Decode Ways
+25. 📘Unique Paths
+26. 📘Jump Game
 
 ### **Graph**
-27. Clone Graph
-28. Course Schedule
-29. Pacific Atlantic Water Flow
-30. Number of Islands
-31. Longest Consecutive Sequence
-32. Alien Dictionary (Leetcode Premium)
-33. Graph Valid Tree (Leetcode Premium)
-34. Number of Connected Components in an Undirected Graph (Leetcode Premium)
+27. 📙Clone Graph
+28. 📙Course Schedule
+29. 📙Pacific Atlantic Water Flow
+30. 📙Number of Islands
+31. 📙Longest Consecutive Sequence
+32. 📙Alien Dictionary (Leetcode Premium)
+33. 📙Graph Valid Tree (Leetcode Premium)
+34. 📙Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
 ### **Linked List**
-35. Reverse a Linked List
-36. Detect Cycle in a Linked List
-37. Merge Two Sorted Lists
-38. Merge K Sorted Lists
-39. Remove Nth Node From End of List
-40. Reorder List
+35. 📖Reverse a Linked List
+36. 📖Detect Cycle in a Linked List
+37. 📖Merge Two Sorted Lists
+38. 📖Merge K Sorted Lists
+39. 📖Remove Nth Node From End of List
+40. 📖Reorder List
 
 ### **String**
-41. Longest Substring Without Repeating Characters
-42. Longest Palindromic Substring
-43. Palindromic Substrings
-44. Integer to Roman
-45. Roman to Integer
-46. Valid Parentheses
-47. Valid Anagram
-48. Group Anagrams
-49. Minimum Window Substring
+41. 🔖Longest Substring Without Repeating Characters
+42. 🔖Longest Palindromic Substring
+43. 🔖Palindromic Substrings
+44. 🔖Integer to Roman
+45. 🔖Roman to Integer
+46. 🔖Valid Parentheses
+47. 🔖Valid Anagram
+48. 🔖Group Anagrams
+49. 🔖Minimum Window Substring
 
 ### **Tree**
-50. Maximum Depth of Binary Tree
-51. Same Tree
-52. Invert/Flip Binary Tree
-53. Binary Tree Maximum Path Sum
-54. Binary Tree Level Order Traversal
-55. Serialize and Deserialize Binary Tree
-56. Subtree of Another Tree
-57. Construct Binary Tree from Preorder and Inorder Traversal
-58. Validate Binary Search Tree
-59. Kth Smallest Element in a BST
-60. Lowest Common Ancestor of BST
-61. Implement Trie (Prefix Tree)
-62. Add and Search Word
-63. Word Search II (Leetcode Premium)
+50. 📚Maximum Depth of Binary Tree
+51. 📚Same Tree
+52. 📚Invert/Flip Binary Tree
+53. 📚Binary Tree Maximum Path Sum
+54. 📚Binary Tree Level Order Traversal
+55. 📚Serialize and Deserialize Binary Tree
+56. 📚Subtree of Another Tree
+57. 📚Construct Binary Tree from Preorder and Inorder Traversal
+58. 📚Validate Binary Search Tree
+59. 📚Kth Smallest Element in a BST
+60. 📚Lowest Common Ancestor of BST
+61. 📚Implement Trie (Prefix Tree)
+62. 📚Add and Search Word
+63. 📚Word Search II (Leetcode Premium)
 
 ### **Heap/Priority Queue**
-64. Merge K Sorted Lists
-65. Top K Frequent Elements
-66. Find Median from Data Stream
+64. 📑Merge K Sorted Lists
+65. 📑Top K Frequent Elements
+66. 📑Find Median from Data Stream
 
 ### **Backtracking**
-67. Subsets
-68. Word Search
-69. Combination Sum
-70. Permutations
-71. N-Queens
+67. 🧾Subsets
+68. 🧾Word Search
+69. 🧾Combination Sum
+70. 🧾Permutations
+71. 🧾N-Queens
 
 ### **Intervals**
-72. Insert Interval
-73. Merge Intervals
-74. Non-overlapping Intervals
-75. Meeting Rooms (Leetcode Premium)
-76. Meeting Rooms II (Leetcode Premium)
+72. 🎒Insert Interval
+73. 🎒Merge Intervals
+74. 🎒Non-overlapping Intervals
+75. 🎒Meeting Rooms (Leetcode Premium)
+76. 🎒Meeting Rooms II (Leetcode Premium)
 
 This set of problems is designed to cover fundamental concepts frequently asked in technical interviews. Working through these will strengthen your ability to solve coding challenges.
 ## Clone

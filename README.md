@@ -5,100 +5,100 @@ A brief description of what this project does and who it's for
 Here is a list of the "Blind 75" LeetCode problems categorized by topic:_
 
 ### **Array**
-1. 📕Two Sum
-2. 📕Best Time to Buy and Sell Stock
-3. 📕Contains Duplicate
-4. 📕Product of Array Except Self
-5. 📕Maximum Subarray
-6. 📕Maximum Product Subarray
-7. 📕Find Minimum in Rotated Sorted Array
-8. 📕Search in Rotated Sorted Array
-9. 📕3Sum
-10.📕Container With Most Water
+1. [📕Two Sum](https://leetcode.com/problems/two-sum/)
+2. [📕Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+3. [📕Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+4. [📕Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+5. [📕Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+6. [📕Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+7. [📕Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+8. [📕Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+9. [📕3Sum](https://leetcode.com/problems/3sum/)
+10. [📕Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### **Binary**
-11. 📗Sum of Two Integers
-12. 📗Number of 1 Bits
-13. 📗Counting Bits
-14. 📗Missing Number
-15. 📗Reverse Bits
+11. [📗Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+12. [📗Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+13. [📗Counting Bits](https://leetcode.com/problems/counting-bits/)
+14. [📗Missing Number](https://leetcode.com/problems/missing-number/)
+15. [📗Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ### **Dynamic Programming**
-16. 📘Climbing Stairs
-17. 📘Coin Change
-18. 📘Longest Increasing Subsequence
-19. 📘Longest Common Subsequence
-20. 📘Word Break Problem
-21. 📘Combination Sum
-22. 📘House Robber
-23. 📘House Robber II
-24. 📘Decode Ways
-25. 📘Unique Paths
-26. 📘Jump Game
+16. [📘Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+17. [📘Coin Change](https://leetcode.com/problems/coin-change/)
+18. [📘Longest Increasing Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+19. [📘Longest Common Subsequence](https://leetcode.com/problems/word-break/)
+20. [📘Word Break Problem](https://leetcode.com/problems/word-break/)
+21. [📘Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+22. [📘House Robber](https://leetcode.com/problems/house-robber/)
+23. [📘House Robber II](https://leetcode.com/problems/house-robber-ii/)
+24. [📘Decode Ways](https://leetcode.com/problems/decode-ways/)
+25. [📘Unique Paths](https://leetcode.com/problems/unique-paths/)
+26. [📘Jump Game](https://leetcode.com/problems/jump-game/)
 
 ### **Graph**
-27. 📙Clone Graph
-28. 📙Course Schedule
-29. 📙Pacific Atlantic Water Flow
-30. 📙Number of Islands
-31. 📙Longest Consecutive Sequence
-32. 📙Alien Dictionary (Leetcode Premium)
-33. 📙Graph Valid Tree (Leetcode Premium)
-34. 📙Number of Connected Components in an Undirected Graph (Leetcode Premium)
+27. [📙Clone Graph](https://leetcode.com/problems/clone-graph/)
+28. [📙Course Schedule](https://leetcode.com/problems/course-schedule/)
+29. [📙Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+30. [📙Number of Islands](https://leetcode.com/problems/number-of-islands/)
+31. [📙Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+32. [📙Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
+33. [📙Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
+34. [📙Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) (Leetcode Premium)
 
 ### **Linked List**
-35. 📖Reverse a Linked List
-36. 📖Detect Cycle in a Linked List
-37. 📖Merge Two Sorted Lists
-38. 📖Merge K Sorted Lists
-39. 📖Remove Nth Node From End of List
-40. 📖Reorder List
+35. [📖Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+36. [📖Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+37. [📖Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+38. [📖Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+39. [📖Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+40. [📖Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ### **String**
-41. 🔖Longest Substring Without Repeating Characters
-42. 🔖Longest Palindromic Substring
-43. 🔖Palindromic Substrings
-44. 🔖Integer to Roman
-45. 🔖Roman to Integer
-46. 🔖Valid Parentheses
-47. 🔖Valid Anagram
-48. 🔖Group Anagrams
-49. 🔖Minimum Window Substring
+41. [🔖Longest Substring Without Repeating Characters]()
+42. [🔖Longest Palindromic Substring]()
+43. [🔖Palindromic Substrings]()
+44. [🔖Integer to Roman]()
+45. [🔖Roman to Integer]()
+46. [🔖Valid Parentheses]()
+47. [🔖Valid Anagram]()
+48. [🔖Group Anagrams]()
+49. [🔖Minimum Window Substring]()
 
 ### **Tree**
-50. 📚Maximum Depth of Binary Tree
-51. 📚Same Tree
-52. 📚Invert/Flip Binary Tree
-53. 📚Binary Tree Maximum Path Sum
-54. 📚Binary Tree Level Order Traversal
-55. 📚Serialize and Deserialize Binary Tree
-56. 📚Subtree of Another Tree
-57. 📚Construct Binary Tree from Preorder and Inorder Traversal
-58. 📚Validate Binary Search Tree
-59. 📚Kth Smallest Element in a BST
-60. 📚Lowest Common Ancestor of BST
-61. 📚Implement Trie (Prefix Tree)
-62. 📚Add and Search Word
-63. 📚Word Search II (Leetcode Premium)
+50. [📚Maximum Depth of Binary Tree]()
+51. [📚Same Tree]()
+52. [📚Invert/Flip Binary Tree]()
+53. [📚Binary Tree Maximum Path Sum]()
+54. [📚Binary Tree Level Order Traversal]()
+55. [📚Serialize and Deserialize Binary Tree]()
+56. [📚Subtree of Another Tree]()
+57. [📚Construct Binary Tree from Preorder and Inorder Traversal]()
+58. [📚Validate Binary Search Tree]()
+59. [📚Kth Smallest Element in a BST]()
+60. [📚Lowest Common Ancestor of BST]()
+61. [📚Implement Trie (Prefix Tree)]()
+62. [📚Add and Search Word]()
+63. [📚Word Search II (Leetcode Premium)]()
 
 ### **Heap/Priority Queue**
-64. 📑Merge K Sorted Lists
-65. 📑Top K Frequent Elements
-66. 📑Find Median from Data Stream
+64. [📑Merge K Sorted Lists]()
+65. [📑Top K Frequent Elements]()
+66. [📑Find Median from Data Stream]()
 
 ### **Backtracking**
-67. 🧾Subsets
-68. 🧾Word Search
-69. 🧾Combination Sum
-70. 🧾Permutations
-71. 🧾N-Queens
+67. [🧾Subsets]()
+68. [🧾Word Search]()
+69. [🧾Combination Sum]()
+70. [🧾Permutations]()
+71. [🧾N-Queens]()
 
 ### **Intervals**
-72. 🎒Insert Interval
-73. 🎒Merge Intervals
-74. 🎒Non-overlapping Intervals
-75. 🎒Meeting Rooms (Leetcode Premium)
-76. 🎒Meeting Rooms II (Leetcode Premium)
+72. [🎒Insert Interval]()
+73. [🎒Merge Intervals]()
+74. [🎒Non-overlapping Intervals]()
+75. [🎒Meeting Rooms (Leetcode Premium)]()
+76. [🎒Meeting Rooms II (Leetcode Premium)]()
 
 This set of problems is designed to cover fundamental concepts frequently asked in technical interviews. Working through these will strengthen your ability to solve coding challenges.
 ## Clone
